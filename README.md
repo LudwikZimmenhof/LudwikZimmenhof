@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mikołaj L.
+- 👀 I’m interested in Science
+- 🌱 I’m currently learning Everything
+- 💞️ I’m looking to collaborate on web, python, c projects
+- 📫 How to reach me? - LudwikZimmenhof#6594
