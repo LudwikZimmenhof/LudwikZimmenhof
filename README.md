@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mikołaj L.
-- 👀 I’m interested in Science
-- 🌱 I’m currently learning Everything
-- 💞️ I’m looking to collaborate on web, python, c projects
-- 📫 How to reach me? - LudwikZimmenhof#6594
+- 👋 My name: Mikołaj L.
+- 👀 Interests: Science | Philosophy
+- 🌱 Learning: Science | Languages | Programming | Philosophy
+- 💞️ Want to make: Web projects | Python projects | C projects
+- 📫 Contact: LudwikZimmenhof#6594 | L.L.Zamenhof-Dr.Esperanto@protonmail.com
